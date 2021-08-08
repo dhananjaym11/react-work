@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dhananjaym11.github.io/react-work/static/css/main.6c0a257a.chunk.css",
-    "main.js": "/dhananjaym11.github.io/react-work/static/js/main.38948cc5.chunk.js",
-    "main.js.map": "/dhananjaym11.github.io/react-work/static/js/main.38948cc5.chunk.js.map",
-    "runtime-main.js": "/dhananjaym11.github.io/react-work/static/js/runtime-main.f5aa6749.js",
-    "runtime-main.js.map": "/dhananjaym11.github.io/react-work/static/js/runtime-main.f5aa6749.js.map",
-    "static/js/2.1af8e7a9.chunk.js": "/dhananjaym11.github.io/react-work/static/js/2.1af8e7a9.chunk.js",
-    "static/js/2.1af8e7a9.chunk.js.map": "/dhananjaym11.github.io/react-work/static/js/2.1af8e7a9.chunk.js.map",
-    "static/js/3.4fe3a945.chunk.js": "/dhananjaym11.github.io/react-work/static/js/3.4fe3a945.chunk.js",
-    "static/js/3.4fe3a945.chunk.js.map": "/dhananjaym11.github.io/react-work/static/js/3.4fe3a945.chunk.js.map",
-    "index.html": "/dhananjaym11.github.io/react-work/index.html",
-    "static/css/main.6c0a257a.chunk.css.map": "/dhananjaym11.github.io/react-work/static/css/main.6c0a257a.chunk.css.map",
-    "static/js/2.1af8e7a9.chunk.js.LICENSE.txt": "/dhananjaym11.github.io/react-work/static/js/2.1af8e7a9.chunk.js.LICENSE.txt"
+    "main.css": "/react-work/static/css/main.6c0a257a.chunk.css",
+    "main.js": "/react-work/static/js/main.38948cc5.chunk.js",
+    "main.js.map": "/react-work/static/js/main.38948cc5.chunk.js.map",
+    "runtime-main.js": "/react-work/static/js/runtime-main.fb932a0f.js",
+    "runtime-main.js.map": "/react-work/static/js/runtime-main.fb932a0f.js.map",
+    "static/js/2.1af8e7a9.chunk.js": "/react-work/static/js/2.1af8e7a9.chunk.js",
+    "static/js/2.1af8e7a9.chunk.js.map": "/react-work/static/js/2.1af8e7a9.chunk.js.map",
+    "static/js/3.4fe3a945.chunk.js": "/react-work/static/js/3.4fe3a945.chunk.js",
+    "static/js/3.4fe3a945.chunk.js.map": "/react-work/static/js/3.4fe3a945.chunk.js.map",
+    "index.html": "/react-work/index.html",
+    "static/css/main.6c0a257a.chunk.css.map": "/react-work/static/css/main.6c0a257a.chunk.css.map",
+    "static/js/2.1af8e7a9.chunk.js.LICENSE.txt": "/react-work/static/js/2.1af8e7a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5aa6749.js",
+    "static/js/runtime-main.fb932a0f.js",
     "static/js/2.1af8e7a9.chunk.js",
     "static/css/main.6c0a257a.chunk.css",
     "static/js/main.38948cc5.chunk.js"
